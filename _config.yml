@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Howard Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **digital artificial intelligence nomad** person."
-  location         : "Somewhere"
+  bio              : "I am an **ai(artificial intelligence) nomad** person."
+  location         : "https://howardlee.netlify.app/"
   email            :
   links:
     - label: "Email"
